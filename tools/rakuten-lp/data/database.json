@@ -21,7 +21,7 @@
       "primary_score": 56.3,
       "score_detail": {
         "info": 9.1,
-        "reviews": 13.0,
+        "reviews": 13,
         "rating": 8.5,
         "price": 10,
         "images": 10,
@@ -59,11 +59,12 @@
       "item_name": "「楽天で一番売れた 」 ヘアアイロン ストレートアイロン 15mm 24mm サロンムーン LDK ミラーダブルイオン ヘアアイロン 美容師 おすすめ SALONMOON ヘアーアイロン ストレートアイロン プレゼント",
       "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6tg1.ca4uc128.g00t6tg1.ca4udcf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsalonmoon%2Fslm-006%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
       "category": "other",
-      "status": "failed",
+      "status": "excluded",
       "fail_count": 2,
-      "reason": "GeminiError: Gemini呼び出しに失敗しました: 応答の解析に失敗: KeyError",
+      "reason": "Gemini応答エラーが2回続いたため作らない（2026-09-29 しすぴ・社長OK）",
       "created_at": "2026-09-28T17:13:11+09:00",
-      "updated_at": "2026-09-28T22:30:44+09:00"
+      "updated_at": "9999-12-31T00:00:00+09:00",
+      "manual_block": true
     },
     "mtgec-beauty:10002009": {
       "item_code": "mtgec-beauty:10002009",
@@ -71,7 +72,7 @@
       "item_name": "ZIP！で紹介されました【ReFa公式】リファハートブラシ ヘアコーム くし ツヤ ヘアブラシ 持ち運び コンパクト 人気 ヘアケア プチギフト 絡まない 艶髪 彼女 妻 女性 ギフト 誕生日 プレゼント 卒業 入学 姪 娘 旅行 ライブ 銭湯 退職 就職 祝い",
       "display_name": "リファハートブラシ ヘアコーム",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00r20g1.ca4uc12a.g00r20g1.ca4udcfd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F5385720101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmtgec-beauty%2Fi%2F10002009%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r20g1.ca4uc12a.g00r20g1.ca4udcfd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F5385720101%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00r20g1.ca4uc12a.g00r20g1.ca4udcfd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmtgec-beauty%2F5385720101%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmtgec-beauty%2Fi%2F10002009%2F&rafcid=wsc_i_is_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
       "category": "mijitaku",
       "category_label": "身支度の道具",
       "keyword": "",
@@ -92,13 +93,13 @@
       ],
       "primary_score": 66.8,
       "score_detail": {
-        "info": 15.0,
+        "info": 15,
         "reviews": 12.4,
         "rating": 9.4,
         "price": 10,
         "images": 10,
         "specificity": 10,
-        "trend_bonus": 6.0,
+        "trend_bonus": 6,
         "rank": 4
       },
       "ai_scores": {
@@ -117,15 +118,17 @@
       "title": "リファハートブラシのサイズと持ち運びやすさは？",
       "status": "published",
       "created_at": "2026-09-28T17:14:27+09:00",
-      "updated_at": "2026-09-28T22:36:11+09:00",
-      "last_checked_at": "2026-09-28T17:14:27+09:00",
+      "updated_at": "2026-09-30T11:43:16+09:00",
+      "last_checked_at": "2026-09-29T22:30:02+09:00",
       "fail_count": 0,
       "voice": "比較検討を手伝う整理調",
       "auto_fixes": 0,
       "related": [
-        "../../../products/mijitaku/tescom-japan-10000036/"
+        "../../../products/mijitaku/salonmoon-10000045/"
       ],
-      "review_changes": 2
+      "review_changes": 2,
+      "missing_count": 0,
+      "unavailable_count": 0
     },
     "tescom-japan:10000036": {
       "item_code": "tescom-japan:10000036",
@@ -133,7 +136,7 @@
       "item_name": "【楽天1位】ドライヤー 速乾 早く乾く 大風量 大風圧 強力 時短 軽い 軽量 折りたたみ テスコム 公式 プロテクトイオン マイナスイオン ツヤ 艶 まとまる ヘアケア くせ毛 静電気 男性 男 メンズ 黒 白 人気 ランキング おすすめ ヘアドライヤー 1年保証 TESCOM TID2400B",
       "display_name": "ドライヤー 速乾 早く乾く 大風量 大風圧 強力 時短 軽い 軽量 折りたたみ",
       "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc8c1.ca4uc00e.g00tc8c1.ca4ud949/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftescom-japan%2Fspeedom_02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftescom-japan%2Fi%2F10000036%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
-      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc8c1.ca4uc00e.g00tc8c1.ca4ud949/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftescom-japan%2Fspeedom_02%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00tc8c1.ca4uc00e.g00tc8c1.ca4ud949/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftescom-japan%2Fspeedom_02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftescom-japan%2Fi%2F10000036%2F&rafcid=wsc_i_is_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
       "category": "mijitaku",
       "category_label": "身支度の道具",
       "keyword": "",
@@ -152,13 +155,13 @@
       ],
       "primary_score": 66.4,
       "score_detail": {
-        "info": 15.0,
+        "info": 15,
         "reviews": 11.8,
         "rating": 9.6,
         "price": 10,
         "images": 10,
         "specificity": 10,
-        "trend_bonus": 6.0,
+        "trend_bonus": 6,
         "rank": 14
       },
       "ai_scores": {
@@ -175,25 +178,154 @@
       ],
       "image_count": 2,
       "title": "テスコム プロテクトイオン ヘアードライヤー TID2400Bの仕様と特徴",
-      "status": "published",
+      "status": "excluded",
       "created_at": "2026-09-28T22:36:11+09:00",
-      "updated_at": "2026-09-28T22:36:11+09:00",
-      "last_checked_at": "2026-09-28T22:36:11+09:00",
+      "updated_at": "9999-12-31T00:00:00+09:00",
+      "last_checked_at": "2026-09-29T22:30:04+09:00",
       "fail_count": 0,
       "voice": "暮らしの場面から入る描写調",
       "auto_fixes": 1,
       "related": [
+        "../../../products/mijitaku/mtgec-beauty-10002009/",
+        "../../../products/mijitaku/salonmoon-10000045/"
+      ],
+      "review_changes": 5,
+      "missing_count": 0,
+      "unavailable_count": 0,
+      "reason": "取り下げ: 「静電気を抑えることで、髪をまとめやすくします」が体の変化の約束（基準B1の×例「髪がまとまる」に該当）",
+      "manual_block": true
+    },
+    "roomy:10015301": {
+      "item_code": "roomy:10015301",
+      "slug": "roomy-10015301",
+      "item_name": "［ 目隠し歯ブラシ＆チューブスタンド タワー レギュラー / スリム ］山崎実業 tower 歯ブラシスタンド 歯ブラシ スタンド 歯ブラシ掛け 歯ブラシ収納 隠す 目隠し 浮かせる ハブラシ 立て 収納 一人暮らし おしゃれ yamazaki 公式 モノトーン ブラック ホワイト",
+      "display_name": "山崎実業 tower 目隠し歯ブラシ＆チューブスタンド",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00qb0l1.ca4ucc50.g00qb0l1.ca4uda95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz23aug03h10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Froomy%2Fi%2F10015301%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00qb0l1.ca4ucc50.g00qb0l1.ca4uda95/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Froomy%2Fymz23aug03h10%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
+      "category": "senmen-storage",
+      "category_label": "洗面所・コスメ収納",
+      "keyword": "",
+      "product_type": "歯ブラシスタンド",
+      "keywords": [
+        "山崎実業",
+        "tower",
+        "歯ブラシスタンド",
+        "目隠し",
+        "洗面所収納",
+        "モノトーン"
+      ],
+      "related_needs": [
+        "コップホルダー",
+        "ハンドソープディスペンサー",
+        "洗面1面鏡裏収納グッズ",
+        "珪藻土トレー"
+      ],
+      "primary_score": 66.8,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 12.4,
+        "rating": 9.4,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 6.0,
+        "rank": 3
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 93.8,
+      "lp_path": "products/senmen-storage/roomy-10015301/index.html",
+      "lp_url": "https://hearthandco.github.io/fuyasanai-mijitaku/products/senmen-storage/roomy-10015301/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_11g/p5-7/ymz1004-sv01b-0_gt01.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_ca2_7/ymz1004-sv01b-0_sz01.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/roomy/cabinet/500cart_all/500cart_ca2_7/ymz1004-sv01b-0_sz02.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "山崎実業 tower 目隠し歯ブラシ＆チューブスタンドの特徴とサイズ",
+      "status": "published",
+      "created_at": "2026-09-29T22:31:09+09:00",
+      "updated_at": "2026-09-29T22:31:09+09:00",
+      "last_checked_at": "2026-09-29T22:31:09+09:00",
+      "fail_count": 0,
+      "voice": "生活者目線の語りかけ調",
+      "auto_fixes": 0,
+      "related": [],
+      "review_changes": 1
+    },
+    "salonmoon:10000045": {
+      "item_code": "salonmoon:10000045",
+      "slug": "salonmoon-10000045",
+      "item_name": "ヘアアイロン ミニ 軽量 コンパクト ポーチ付 小回り 前髪 携帯用 ストレートアイロン 機内持ち込み SALONMOON サロンムーン ミラーダブルイオン ストレート おすすめ ストレートヘアアイロン 前髪用 海外対応 飛行機",
+      "display_name": "ヘアアイロン ミニ 軽量 コンパクト ポーチ付",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6tg1.ca4uc128.g00t6tg1.ca4udcf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsalonmoon%2Fslm010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsalonmoon%2Fi%2F10000045%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
+      "affiliate_url": "https://hb.afl.rakuten.co.jp/hgc/g00t6tg1.ca4uc128.g00t6tg1.ca4udcf9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsalonmoon%2Fslm010%2F&rafcid=wsc_i_ra_7b91c1b3-6a2d-4ab1-af5e-40fd63cc804e",
+      "category": "mijitaku",
+      "category_label": "身支度の道具",
+      "keyword": "",
+      "product_type": "ヘアアイロン",
+      "keywords": [
+        "ヘアアイロン ミニ",
+        "ストレートアイロン",
+        "携帯用",
+        "海外対応",
+        "サロンムーン",
+        "コンパクト"
+      ],
+      "related_needs": [
+        "ヘアオイル",
+        "耐熱ヘアキャップ",
+        "ヘアスタイリング剤"
+      ],
+      "primary_score": 66.1,
+      "score_detail": {
+        "info": 15.0,
+        "reviews": 11.1,
+        "rating": 10.0,
+        "price": 10,
+        "images": 10,
+        "specificity": 10,
+        "trend_bonus": 6.0,
+        "rank": 16
+      },
+      "ai_scores": {
+        "problem_solving": 13,
+        "target_clarity": 9,
+        "lp_fit": 5
+      },
+      "final_score": 93.1,
+      "lp_path": "products/mijitaku/salonmoon-10000045/index.html",
+      "lp_url": "https://hearthandco.github.io/fuyasanai-mijitaku/products/mijitaku/salonmoon-10000045/",
+      "images": [
+        "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm110/flick/slm110_f_00_mpmg_ra_d2.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm110/flick/slm110_f_d1_01.jpg?_ex=128x128",
+        "https://thumbnail.image.rakuten.co.jp/@0_gold/salonmoon/slm110/flick/slm110_f_d1_02.jpg?_ex=128x128"
+      ],
+      "image_count": 3,
+      "title": "サロンムーン ミニヘアアイロンの特徴と仕様を整理",
+      "status": "published",
+      "created_at": "2026-09-29T22:31:31+09:00",
+      "updated_at": "2026-09-30T11:43:16+09:00",
+      "last_checked_at": "2026-09-29T22:31:31+09:00",
+      "fail_count": 0,
+      "voice": "要点先出しの簡潔調",
+      "auto_fixes": 1,
+      "related": [
         "../../../products/mijitaku/mtgec-beauty-10002009/"
       ],
-      "review_changes": 5
+      "review_changes": 2
     }
   },
   "state": {
     "next_category": 0,
     "gemini_calls": {
       "2026-09-25": 3,
-      "2026-09-28": 6
+      "2026-09-28": 6,
+      "2026-09-29": 6
     },
-    "next_ranking_source": 7
+    "next_ranking_source": 6
   }
 }
